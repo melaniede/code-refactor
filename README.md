@@ -23,13 +23,13 @@ The Horiseon's marketing website was refactored to make the site more accessibil
 - Moved background image from the css file to html file to add an alt text
 
 
-### View of top the Page
+### Top of the Page
 <img src="assets/images/CodeRefactorHeader.png" width = "550">
 
-### View ofmiddle of the Page
+### Middle of the Page
 <img src="assets/images/CodeRefactorMiddle.png" width = "550">
 
-### View of bottom of the Page
+### Borrom of the Page
 <img src="assets/images/CodeRefactorFooter.png" width = "550">
 
 
