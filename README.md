@@ -1,6 +1,6 @@
 # code-refactor
-Week 1 Homework
 
+Week 1 Homework
 ## Horiseon's Page Code Refactor
 
 [Deployed Application Link](https://melaniede.github.io/code-refactor/)
@@ -23,15 +23,14 @@ The Horiseon's marketing website was refactored to make the site more accessibil
 - Moved background image from the css file to html file to add an alt text
 
 
-### Top of the Page
+### View of top the Page
 <img src="assets/images/CodeRefactorHeader.png" width = "550">
 
-### Middle of the Page
+### View of middle of the Page
 <img src="assets/images/CodeRefactorMiddle.png" width = "550">
 
-### Borrom of the Page
+### View of bottom of the Page
 <img src="assets/images/CodeRefactorFooter.png" width = "550">
-
 
 
 
