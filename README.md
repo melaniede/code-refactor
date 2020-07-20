@@ -5,6 +5,9 @@ Week 1 Homework
 
 [Deployed Application Link](https://melaniede.github.io/code-refactor/)
 
+## Summary
+The Horiseon's marketing website was refactored to make the site more accessibility friendly, ensure all links were working properly, and the code was streamlined.
+
 ## Changes made to this project included:
 - Added alt text to images 
 - Added footer tag
@@ -16,28 +19,30 @@ Week 1 Homework
 - Moved benefit section css code to align with placement in the html file 
 - Changed sidebar div to aside tag
 - Changed middle content divs to sections
-- Consildated class tags
+- Consolidated class tags
 - Moved background image from the css file to html file to add an alt text
 
 
-### Top of the Page
-<img src="assets/iimages/CodeRefactorHeader.png" width = "550">
+### View of top the Page
+<img src="assets/images/CodeRefactorHeader.png" width = "550">
 
-### Middle of the Page
-<img src="assets/iimages/CodeRefactorMiddle.png" width = "550">
+### View ofmiddle of the Page
+<img src="assets/images/CodeRefactorMiddle.png" width = "550">
 
-### Borrom of the Page
-<img src="assets/iimages/CodeRefactorFooter.png" width = "550">
+### View of bottom of the Page
+<img src="assets/images/CodeRefactorFooter.png" width = "550">
 
 
 
 
 ### User Story
+```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-
+```
 ### Acceptance Criteria
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -49,3 +54,4 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```

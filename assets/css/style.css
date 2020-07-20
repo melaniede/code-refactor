@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styling*/
+
 .head {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +25,8 @@ body {
 .head h1 .seo {
     color: #d9dcd6;
 }
+
+/* Navigation styling */
 
 /* Updated to new nav tag */
 .head nav {
@@ -53,11 +57,14 @@ p {
     font-size: 16px;
 }
 
+/* Full image styling */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
 }
+
+/* Main content styling */
 
 .float-left {
     float: left;
@@ -96,6 +103,8 @@ p {
     font-size: 36px;
 }
 
+/* Sidebar styling */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,6 +134,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer styling*/
 
 .footer {
     padding: 30px;
