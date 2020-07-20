@@ -1,5 +1,11 @@
 # code-refactor
 Week 1 Homework
+
+## Horiseon's Page Code Refactor
+
+[Deployed Application Link](https://melaniede.github.io/code-refactor/)
+
+## Changes made to this project included:
 - Added alt text to images 
 - Added footer tag
 - Updated title to describe website’s content
@@ -11,4 +17,35 @@ Week 1 Homework
 - Changed sidebar div to aside tag
 - Changed middle content divs to sections
 - Consildated class tags
-- Moved background image to html so I could add an alt text
+- Moved background image from the css file to html file to add an alt text
+
+
+### Top of the Page
+<img src="assets/iimages/CodeRefactorHeader.png" width = "550">
+
+### Middle of the Page
+<img src="assets/iimages/CodeRefactorMiddle.png" width = "550">
+
+### Borrom of the Page
+<img src="assets/iimages/CodeRefactorFooter.png" width = "550">
+
+
+
+
+### User Story
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+### Acceptance Criteria
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
