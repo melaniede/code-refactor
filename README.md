@@ -21,13 +21,13 @@ Week 1 Homework
 
 
 ### Top of the Page
-<img src="assets/iimages/CodeRefactorHeader.png" width = "550">
+<img src="assets/images/CodeRefactorHeader.png" width = "550">
 
 ### Middle of the Page
-<img src="assets/iimages/CodeRefactorMiddle.png" width = "550">
+<img src="assets/images/CodeRefactorMiddle.png" width = "550">
 
 ### Borrom of the Page
-<img src="assets/iimages/CodeRefactorFooter.png" width = "550">
+<img src="assets/images/CodeRefactorFooter.png" width = "550">
 
 
 
